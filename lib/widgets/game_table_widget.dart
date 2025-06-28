@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:tresss/game/models/game_state.dart';
-import 'package:tresss/game/models/card.dart';
 import 'package:tresss/theme/app_theme.dart';
 import 'package:tresss/widgets/game_card_widget.dart';
 
